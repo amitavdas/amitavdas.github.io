@@ -1,0 +1,6 @@
+#+TITLE: First Org Post
+#+DATE:  2025-02-27T00:37:52+06:00
+#+DRAFT: true
+
+This is my first post using *org-mode* /syntax/.
+This is gonna be fun.

@@ -8,7 +8,7 @@ enableGitInfo = true
 [[menu.main]]
 name = "About"
 url = "/about/"
-wegith = 2
+weight = 2
 
 [frontmatter]
 lastmod = ["lastmod", ":git", "date", "publishDate"]

@@ -600,9 +600,16 @@ th, td {
 }
 
 .sitemap {
-    margin: auto;
-    width: 50%;
+    width: 100%;
     font-size: 1.4em;
+    margin: 0;
+}
+
+.sitemap ul {
+    list-style-type: square;
+    list-style-position: outside;
+    text-align: center;
+    margin: 0;
 }
 
 .__h_instagram .card-header {

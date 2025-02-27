@@ -1,0 +1,13 @@
+#+DATE:  2025-02-27T01:19:38+06:00
+#+DRAFT: false
+#+TITLE: About
+#+TYPE: _default
+#+LAYOUT: single
+
+Hello there,
+
+I am Amitav from Bangladesh, an aspiring astrophysicist.
+
+My interest are in Supernovae, Plasma, Gravitation and Asteroseismology.
+
+I like to tinker with Unix (Linux) from time to time.

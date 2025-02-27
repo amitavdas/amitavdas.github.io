@@ -1,4 +1,15 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://amitavdas.github.io/'
+# Set the baseURL for your production site. This value must begin with the protocol and end with a slash, as shown above.
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Home'
 theme = 'hugo-dusk'
+enableGitInfo = true
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+wegith = 2
+
+[frontmatter]
+lastmod = ["lastmod", ":git", "date", "publishDate"]
+# use last modification date if specified in the file, or use git or use date or publish date
